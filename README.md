@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dan
+- 👀 I’m interested in Game Development and security breaches
+- 🌱 I’m currently learning C/C++, Java/Android, Assembly, Networks, Python, SQLITE... 
+- 💞️ I’m looking for cool projects to code in any of the above languages (espacially C/C++ and Android Studio)
+- 📫 Feel free to reach me on my mail: yuoirty@gmail.com
